@@ -1,0 +1,19 @@
+{
+  "name": "@rune-johnsen/node-package-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rune-johnsen/node-package-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rune-johnsen/node-package-test/issues"
+  },
+  "homepage": "https://github.com/rune-johnsen/node-package-test#readme"
+}
